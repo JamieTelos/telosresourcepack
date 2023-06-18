@@ -54,6 +54,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "five_blue"
     },
+    "image12": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAA8P///wAAAAD/////AAAAAP///71LxMz8////TbvEDPDf/t1N1MQMAN///U/UxMz83/39vbvdAPDf/v0PAAAAAA//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

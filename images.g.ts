@@ -212,11 +212,37 @@ e e e e e e e e e e e e e e e e
 e e e e e e e e e e e e e e e e 
 e e e e e e e e e e e e e e e e 
 `;
+            case "image12":
+            case "myImage":return img`
+. . . f f f f f f f f . . . . . 
+. . f f f f d d d d . . . . . . 
+. . f f f f e f d e f . . . . . 
+. . f f f f f f f f f . . . . . 
+. . f f f f d d d d . . . . . . 
+. . f f f f d f f f . . . . . . 
+. . f f d d d f d f . . . . . . 
+. . f f b 4 4 4 b . . . . . . . 
+. . . . b b 4 4 b . . . . . . . 
+. . . . 4 b d d b . . . . . . . 
+. . . . 4 4 4 4 d . . . . . . . 
+. . . . c c c c d . . . . . . . 
+. . . . c c c c . . . . . . . . 
+. . . . c . . c . . . . . . . . 
+. . . . c . . c . . . . . . . . 
+. . . . f f . f f . . . . . . . 
+`;
         }
         return null;
     })
 
     helpers._registerFactory("animation", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+    helpers._registerFactory("song", function(name: string) {
         switch(helpers.stringTrim(name)) {
 
         }
