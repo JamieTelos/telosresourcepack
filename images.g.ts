@@ -440,6 +440,481 @@ e e e e e e e e e e e e e e e e
 e e e e e e e e e e e e e e e e 
 e e e e e e e e e e e e e e e e 
 `;
+            case "image24":
+            case "one_blue_one_wooden":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . . e e . . 
+. 8 8 8 8 . d d d d . . e e . . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image25":
+            case "one_blue_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . 5 5 5 1 . 
+. 8 8 8 8 . . e e . . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image26":
+            case "one_wooden_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . d d d 1 . 5 5 5 1 . 
+. . e e . . d d d d . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image27":
+            case "one_blue_one_wooden_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . 5 5 5 1 . 
+. 8 8 8 8 . d d d d . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image28":
+            case "two_blue_one_wooden":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . . e e . . 
+. 8 8 8 8 . d d d d . . e e . . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image29":
+            case "two_blue_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . 5 5 5 1 . 
+. 8 8 8 8 . . e e . . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image30":
+            case "three_blue_one_wooden":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . . e e . . 
+. 8 8 8 8 . d d d d . . e e . . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image31":
+            case "three_blue_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . 5 5 5 1 . 
+. 8 8 8 8 . . e e . . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image32":
+            case "three_blue_one_wooden_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . 5 5 5 1 . 
+. 8 8 8 8 . d d d d . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image33":
+            case "four_blue_one_wooden":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . . e e . . 
+. 8 8 8 8 . d d d d . . e e . . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image34":
+            case "four_blue_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . 5 5 5 1 . 
+. 8 8 8 8 . . e e . . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image35":
+            case "five_blue_one_wooden":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . . e e . . 
+. 8 8 8 8 . d d d d . . e e . . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image36":
+            case "five_blue_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . 5 5 5 1 . 
+. 8 8 8 8 . . e e . . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image37":
+            case "five_blue_one_wooden_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . 5 5 5 1 . 
+. 8 8 8 8 . d d d d . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image38":
+            case "two_blue_one_wooden_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . 5 5 5 1 . 
+. 8 8 8 8 . d d d d . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image39":
+            case "four_blue_one_wooden_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . 5 5 5 1 . 
+. 8 8 8 8 . d d d d . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image40":
+            case "six_blue_one_wooden":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . . e e . . 
+. 8 8 8 8 . d d d d . . e e . . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image41":
+            case "six_blue_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . 5 5 5 1 . 
+. 8 8 8 8 . . e e . . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image42":
+            case "six_blue_one_wooden_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 1 8 8 8 . . e e . . . e e . . 
+. 8 8 8 8 . . e e . . . e e . . 
+. 8 8 8 1 . d d d 1 . 5 5 5 1 . 
+. 8 8 8 8 . d d d d . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image43":
+            case "one_blue_two_wooden":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . 1 d d d . . e e . . 
+. . e e . . d d d d . . e e . . 
+. 8 8 8 1 . d d d 1 . . e e . . 
+. 8 8 8 8 . d d d d . . e e . . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image44":
+            case "two_wooden_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . 1 d d d . . e e . . 
+. . e e . . d d d d . . e e . . 
+. . e e . . d d d 1 . 5 5 5 1 . 
+. . e e . . d d d d . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image45":
+            case "one_blue_two_wooden_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . 1 d d d . . e e . . 
+. . e e . . d d d d . . e e . . 
+. 8 8 8 1 . d d d 1 . 5 5 5 1 . 
+. 8 8 8 8 . d d d d . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image46":
+            case "one_blue_three_wooden":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . d d d 1 . . e e . . 
+. . e e . . d d d d . . e e . . 
+. . e e . . 1 d d d . . e e . . 
+. . e e . . d d d d . . e e . . 
+. 8 8 8 1 . d d d 1 . . e e . . 
+. 8 8 8 8 . d d d d . . e e . . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image47":
+            case "one_blue_three_wooden_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . d d d 1 . . e e . . 
+. . e e . . d d d d . . e e . . 
+. . e e . . 1 d d d . . e e . . 
+. . e e . . d d d d . . e e . . 
+. 8 8 8 1 . d d d 1 . 5 5 5 1 . 
+. 8 8 8 8 . d d d d . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image48":
+            case "three_wooden_one_yellow":return img`
+. . . . . . . . . . . . . . . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . . e e . . . e e . . 
+. . e e . . d d d 1 . . e e . . 
+. . e e . . d d d d . . e e . . 
+. . e e . . 1 d d d . . e e . . 
+. . e e . . d d d d . . e e . . 
+. . e e . . d d d 1 . 5 5 5 1 . 
+. . e e . . d d d d . 5 5 5 5 . 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
         }
         return null;
     })
